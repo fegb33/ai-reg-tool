@@ -1,1 +1,2 @@
-# ai-reg-tool
+# AI Reg Tool
+# Azure based
